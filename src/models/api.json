@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "SuperStay Matte Ink",
+        "marca": "Maybelline",
+        "matte": true,
+        "líquido": true,
+        "duração": "16 horas de duração",
+        "valor": "R$59,89"
+    },
+    {
+        "nome": "Batom Matte",
+        "marca": "M.A.C",
+        "matte": true,
+        "líquido": false,
+        "duração": "24 horas de duração",
+        "valor": "R$109,00"
+    },
+    {
+        "nome": "Batom Líquido Niina Secrets Skinny Matte",
+        "marca": "Eudora",
+        "matte": true,
+        "líquido": true,
+        "duração": "12 horas de duração",
+        "valor": "R$39,99"
+    },
+    {
+        "nome": "Batom Líquido Supermate",
+        "marca": "Quem disse, Berenice?",
+        "matte": true,
+        "líquido": true,
+        "duração": "8 horas de duração",
+        "valor": "R$44,90"
+    },
+    {
+        "nome": "Batom Líquido Matte Kylie Jenner",
+        "marca": "Kylie Cosmetics",
+        "matte": true,
+        "líquido": true,
+        "duração": "8 horas de duração",
+        "valor": "R$159,00"
+    },
+    {
+        "nome": "Batom Líquido Matte",
+        "marca": "Bruna Tavares",
+        "matte": true,
+        "líquido": true,
+        "duração": "12 horas de duração",
+        "valor": "R$29,00"
+    }
+]
